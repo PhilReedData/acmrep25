@@ -3,7 +3,6 @@ title: "2. Bioschemas"
 ---
 
 ## Overview
-> [!NOTE]
 > **Presentation: Introduction to Bioschemas** (10 minutes)
 > 
 > * How Bioschemas works; Types versus Profiles; Communities  
