@@ -1,4 +1,6 @@
-# About the workshop
+---
+title: About the workshop
+---
 
 ## Abstract
 [RO-Crate](https://www.researchobject.org/ro-crate/) is a lightweight method to package research outputs along with their metadata. [Bioschemas](https://bioschemas.org/) provides metadata schemas to add structured metadata to webpages on Life Science. [Schemas.science](https://schemas.science/) extends this provision into non-bio domains. 
@@ -30,3 +32,26 @@ After completing the RO-Crates section of the tutorial, learners will be able to
 * Connect different parts of the Research Object using identifiers
 
 These learning outcomes are most relevant to the ACM reproducibility concepts, including: “Software and artifact packaging and container-related reproducibility methods”, “Data versioning and preservation”, and “Approaches for advancing reproducibility”.
+
+
+## Intended audience
+
+This introductory tutorial targets researchers and infrastructure managers who are producing file-based datasets. The audience will learn the method RO-Crate for publishing such datasets using a pragmatic approach to structure and provide FAIR metadata. 
+
+## Audience prerequisites
+
+Before attending the Bioschemas section of the tutorial, learners should already have:
+
+* Familiarity on how to use GitHub; Basic knowledge on how to use GitHub Pages  
+* Familiarity with JSON-LD  
+* Basic knowledge on Markdown  
+* Knowledge of developer tools on a browser
+
+Before attending the RO-Crates section of the tutorial, learners should already have:
+
+* Files and folder organization and using an editor/IDE  
+* Familiarity with JSON file format
+
+This part of the tutorial is meant to be read along with the [RO-Crate specification](https://www.researchobject.org/ro-crate/1.1/), which learners are suggested to browse in advance.
+
+
