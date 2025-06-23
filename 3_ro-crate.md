@@ -23,3 +23,13 @@ After completing the RO-Crates section of the tutorial, learners will be able to
 * Describe each part of the Research Object
 * Use basic JSON-LD to create FAIR metadata
 * Connect different parts of the Research Object using identifiers
+
+
+## Audience prerequisites
+
+Before attending the RO-Crates section of the tutorial, learners should already have:
+
+* Files and folder organization and using an editor/IDE
+* Familiarity with JSON file format
+
+This part of the tutorial is meant to be read along with the [RO-Crate specification](https://www.researchobject.org/ro-crate/1.1/), which learners are suggested to browse in advance.

@@ -24,3 +24,13 @@ After completing the Bioschemas section of the tutorial, learners will be able t
 * Use schema.org and Bioschemas profiles on GitHub pages
 * Use schema and Bioschemas validators
 
+
+## Audience prerequisites
+
+Before attending the Bioschemas section of the tutorial, learners should already have:
+
+* Familiarity on how to use GitHub; Basic knowledge on how to use GitHub Pages
+* Familiarity with JSON-LD
+* Basic knowledge on Markdown
+* Knowledge of developer tools on a browser
+
