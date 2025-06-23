@@ -1,8 +1,10 @@
 ---
 title: "2. Bioschemas"
 ---
+![Bioschemas logo](images/bioschemas.svg)
 
 ## Overview
+
 > **Presentation: Introduction to Bioschemas** (10 minutes)
 > 
 > * How Bioschemas works; Types versus Profiles; Communities  
@@ -14,4 +16,11 @@ title: "2. Bioschemas"
 > * Using schema.org types; Using Bioschemas profiles; Sitemaps  
 > * Visualizing the structured markup; Validating the pages
 
-Details to follow.
+## Learning Objectives
+
+After completing the Bioschemas section of the tutorial, learners will be able to:
+
+* Describe how schema.org and Bioschemas markup can be embedded to GitHub pages
+* Use schema.org and Bioschemas profiles on GitHub pages
+* Use schema and Bioschemas validators
+
