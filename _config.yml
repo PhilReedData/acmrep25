@@ -1,2 +1,16 @@
 remote_theme: "jekyll/minima@0b7ca6b"
 title: "Improving FAIRability of your research outcomes with RO-Crates and Bioschemas | ACM REP '25"
+author:
+   name: Phil Reed
+   email: phil.reed@manchester.ac.uk
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/PhilReedData/acmrep25"
+  hide_site_feed_link: true
