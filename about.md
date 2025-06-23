@@ -1,5 +1,5 @@
 ---
-title: About the workshop
+title: About
 ---
 
 ## Abstract
@@ -54,4 +54,19 @@ Before attending the RO-Crates section of the tutorial, learners should already 
 
 This part of the tutorial is meant to be read along with the [RO-Crate specification](https://www.researchobject.org/ro-crate/1.1/), which learners are suggested to browse in advance.
 
+## Software needs for the tutorial
+
+Participants should prepare by ensuring they can access their own free GitHub account. If they have not used GitHub for a while, they may need to configure two-factor authentication. You will need to use a text editor such as Notepad (Windows) or TextEdit (macOS). Any plain text editor will work, however, for a better experience, we recommend an IDE such as [VSCode](https://code.visualstudio.com/download) (free and built on open source). VSCode will provide features such as syntax highlighting and formatting for JSON documents. 
+
+## About the instructors
+**Phil Reed, The University of Manchester (UK)**
+
+Research Community and Training Manager for The University of Manchester. Computer Science Research Associate, Library Data Specialist and Teaching and Learning Librarian (2012-2024), eScience Lab since 2024. Member of the Library Carpentry Curriculum Advisory Committee (2019-2024). Senior Fellow of Advance HE (the UK higher education academy), Fellow of the Software Sustainability Institute. Member of the Bioschemas community, co-leading hackathon events across Europe that improve the usability of Bioschemas resources.
+
+**Abigail Miller, The Jackson Laboratory (USA)**
+
+Principal Software Engineer for JAX Data Science
+Architect and technical lead for BioConnect, a metadata indexing system that promotes data standards across the organization and leverages community and open source frameworks such as the RO Crate python library, Frictionless Data, and OpenFGA
+Participant in ISA and RO Crate working groups and member of RO Crate steering committee
+Has been developing research workflow software systems since 2003
 
