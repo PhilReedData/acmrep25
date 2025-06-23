@@ -5,7 +5,7 @@ title: About
 ## Abstract
 [RO-Crate](https://www.researchobject.org/ro-crate/) is a lightweight method to package research outputs along with their metadata. [Bioschemas](https://bioschemas.org/) provides metadata schemas to add structured metadata to webpages on Life Science. [Schemas.science](https://schemas.science/) extends this provision into non-bio domains. 
 
-The combination of RO-Crates, Bioschemas and schemas.science make resources easy to navigate by machines, provide an unambiguous way for machines to access FAIR metadata and content in a single request, and reduce content-negotiation hassle that can give unpredictable results. 
+The combination of RO-Crates, Bioschemas and schemas.science make resources easy to navigate by machines, provide an unambiguous way for machines to access [FAIR](https://www.go-fair.org/fair-principles/) metadata and content in a single request, and reduce content-negotiation hassle that can give unpredictable results. 
 
 This combination is of benefit for researchers and data providers whenever they want to improve FAIRability of their resources as they can support RO-Crate imports and align with Bioschemas specifications, making FAIR-compliant digital objects achievable with existing technologies such as Web Linking over HTTP.
 
