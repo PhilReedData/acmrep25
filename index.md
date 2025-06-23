@@ -10,11 +10,11 @@ See the [about page](about) for abstract, learning objectives, intended audience
 
 | Times | Topics |
 |:------|:-------|
-|0h00 - 0h15 | Introduction |
-|0h15 - 0h45 | Bioschemas   |
-|0h45 - 2h15 | RO-Crate     |
+|0h00 - 0h15 | [Introduction](1_introduction) |
+|0h15 - 0h45 | [Bioschemas](2_bioschemas)   |
+|0h45 - 2h15 | [RO-Crate](3_ro-crate)     |
 |(1h00 - 1h15)| (Coffee break)  |
-|2h15 - 2h45 | Group discussions, HDR UK |
+|2h15 - 2h45 | [Group discussions, HDR UK](4_discussions) |
 |2h45 - 3h00 | Wrap up |
 
 
