@@ -8,14 +8,14 @@ See the [about page](about) for abstract, learning objectives, intended audience
 
 ## Tutorial delivery
 
-| Times | Topics |
-|:------|:-------|
-|0h00 - 0h15 | [Introduction](1_introduction) |
-|0h15 - 0h45 | [Bioschemas](2_bioschemas)   |
-|0h45 - 2h15 | [RO-Crate](3_ro-crate)     |
-|(1h00 - 1h15)| (Coffee break)  |
-|2h15 - 2h45 | [Group discussions, HDR UK](4_discussion) |
-|2h45 - 3h00 | Wrap up |
+| Times | Topic                                        |
+|:------|:---------------------------------------------|
+|0h00 - 0h15 | [1. Introduction](1_introduction)            |
+|0h15 - 0h45 | [2. Bioschemas](2_bioschemas)                |
+|0h45 - 2h15 | [3. RO-Crate](3_ro-crate)                    |
+|(1h00 - 1h15)| (Coffee break)                               |
+|2h15 - 2h45 | [4. Group discussions, HDR UK](4_discussion) |
+|2h45 - 3h00 | 5. Wrap up                                   |
 
 
 
