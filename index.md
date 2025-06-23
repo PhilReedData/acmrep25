@@ -7,6 +7,7 @@ Website for the [ACM REP '25](https://acm-rep.github.io/2025/) tutorial "Improvi
 - **Phil Reed**, Research Community and Training Manager, The University of Manchester (UK)
 - **Abigail Miller**, Principal Software Engineer for JAX Data Science, The Jackson Laboratory (USA)
 
+The instructors are adapting materials produced by **Stian Soiland-Reyes** and **Leyla Jael Castro**. 
 
 See the [about page](about) for abstract, learning objectives, intended audience, and audience prerequisites.
 
