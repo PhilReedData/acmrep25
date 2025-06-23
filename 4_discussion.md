@@ -1,7 +1,7 @@
 ---
 title: "4. Discussion"
 ---
-![Table and chairs](images/table.svg)
+![Table and chairs](images/tables-3.svg)
 Image by [Marcin](https://pixabay.com/users/padrefilar-2305081/) from [Pixabay](https://pixabay.com/).
 
 ## Overview
