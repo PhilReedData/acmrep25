@@ -32,3 +32,4 @@ Slides-based presentations are limited to 15 minutes.
 Participants are encouraged to bring their own data to apply the concepts to, where the familiarity will aid with comprehension. 
 There is a coffee break in the middle of the tutorial.    
 
+All materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by their respective authors.

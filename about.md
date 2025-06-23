@@ -2,16 +2,16 @@
 title: About
 ---
 
-## Abstract
-[RO-Crate](https://www.researchobject.org/ro-crate/) is a lightweight method to package research outputs along with their metadata. [Bioschemas](https://bioschemas.org/) provides metadata schemas to add structured metadata to webpages on Life Science. [Schemas.science](https://schemas.science/) extends this provision into non-bio domains. 
-
-The combination of RO-Crates, Bioschemas and schemas.science make resources easy to navigate by machines, provide an unambiguous way for machines to access [FAIR](https://www.go-fair.org/fair-principles/) metadata and content in a single request, and reduce content-negotiation hassle that can give unpredictable results. 
-
-This combination is of benefit for researchers and data providers whenever they want to improve FAIRability of their resources as they can support RO-Crate imports and align with Bioschemas specifications, making FAIR-compliant digital objects achievable with existing technologies such as Web Linking over HTTP.
-
-The benefits of adopting RO-Crates are evident in a diverse range of applications. For example, *Five Safes RO-Crate* [https://w3id.org/5s-crate/](https://w3id.org/5s-crate/) specifies a profile of RO-Crate for the purpose of workflow execution in a distributed trusted research environment (TRE). The TRE-FX Project (delivered with HDR-UK) is providing safe, federated access to TREs, using the [Five Safes](https://www.gov.uk/data-ethics-guidance/the-five-safes-framework) RO-Crate standard.
-
-Following a Bring Your Own Resource hands-on style, in this tutorial we will showcase how to use RO-Crates, and Bioschemas to improve FAIRability and will accompany attendees to apply the technologies to their own resources.
+> ## Abstract
+> [RO-Crate](https://www.researchobject.org/ro-crate/) is a lightweight method to package research outputs along with their metadata. [Bioschemas](https://bioschemas.org/) provides metadata schemas to add structured metadata to webpages on Life Science. [Schemas.science](https://schemas.science/) extends this provision into non-bio domains. 
+> 
+> The combination of RO-Crates, Bioschemas and schemas.science make resources easy to navigate by machines, provide an unambiguous way for machines to access [FAIR](https://www.go-fair.org/fair-principles/) metadata and content in a single request, and reduce content-negotiation hassle that can give unpredictable results. 
+> 
+> This combination is of benefit for researchers and data providers whenever they want to improve FAIRability of their resources as they can support RO-Crate imports and align with Bioschemas specifications, making FAIR-compliant digital objects achievable with existing technologies such as Web Linking over HTTP.
+> 
+> The benefits of adopting RO-Crates are evident in a diverse range of applications. For example, *Five Safes RO-Crate* [https://w3id.org/5s-crate/](https://w3id.org/5s-crate/) specifies a profile of RO-Crate for the purpose of workflow execution in a distributed trusted research environment (TRE). The TRE-FX Project (delivered with HDR-UK) is providing safe, federated access to TREs, using the [Five Safes](https://www.gov.uk/data-ethics-guidance/the-five-safes-framework) RO-Crate standard.
+> 
+> Following a Bring Your Own Resource hands-on style, in this tutorial we will showcase how to use RO-Crates, and Bioschemas to improve FAIRability and will accompany attendees to apply the technologies to their own resources.
 
 
 ## Learning objectives
