@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+![Photo of Phil teaching in a computer cluster](images/phil-teaching.jpg)
 
 Website for the [ACM REP '25](https://acm-rep.github.io/2025/) tutorial "Improving FAIRability of your research outcomes with RO-Crates and Bioschemas", by:
 
