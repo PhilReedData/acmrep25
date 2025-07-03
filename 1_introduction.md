@@ -5,6 +5,10 @@ title: "1. Introduction"
 > ## Overview
 > Welcome, establish the context, set up IDE, set up GitHub logins
 
+## Welcome
+
+<div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alwsrhbfa1opyjm75jijkhh21qg57ky4/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
+
 ## Software needs for the tutorial
 
 ### GitHub account
