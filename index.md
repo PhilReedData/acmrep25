@@ -3,7 +3,7 @@ layout: home
 ---
 ![Photo of Phil teaching in a computer cluster](images/phil-teaching.jpg)
 
-Website for the [ACM REP '25](https://acm-rep.github.io/2025/) tutorial "Improving FAIRability of your research outcomes with RO-Crates and Bioschemas", by:
+Website for the [ACM REP '25](https://acm-rep.github.io/2025/) Tutorial 1 "Improving FAIRability of your research outcomes with RO-Crates and Bioschemas", by:
 
 - **Phil Reed**, Research Community and Training Manager, The University of Manchester (UK)
 - **Abigail Miller**, Principal Software Engineer for JAX Data Science, The Jackson Laboratory (USA)
@@ -16,15 +16,17 @@ See the [about page](about) for abstract, learning objectives, intended audience
 
 **Date**: Tuesday, July 29th 2025, 9am to 12 noon Pacific Time (UTC -7) [(convert to your time zone)](https://www.timeanddate.com/worldclock/converter.html?iso=20250729T160000&p1=256)
 
-**Location**: Allard 121
+**Location**: Allard 121, in-person and hybrid
 
-| Times (PDT)                    | Topic                                                      |
-|:-------------------------------|:-----------------------------------------------------------|
-| 9am - 9.15                     | [1. Introduction](1_introduction)                          |
-| 9.15 - 9.45                    | [2. Bioschemas](2_bioschemas)                              |
-| 9.45 - 11.15<br>(10am - 10.15) | [3. RO-Crate](3_ro-crate)<br>(Coffee break)               |
-| 11.15 - 11.45                  | [4. Group discussions, HDR UK](4_discussion)               |
-| 11.45 - 12 noon                | 5. Wrap up                                                 |
+| Times (PDT)     | Topic                                        |
+|:----------------|:---------------------------------------------|
+| 09:00 - 09:15   | [1. Introduction](1_introduction)            |
+| 09:15 - 09:45   | [2. Bioschemas](2_bioschemas)                |
+| 09:45 - 10:15   | [3. RO-Crate](3_ro-crate)                    |
+| (10:15 - 10:45) | (Break)                                      |
+| 10:45 - 11.45   | [3. RO-Crate](3_ro-crate) continued          |
+| 11:45 - 12:15   | [4. Group discussions, HDR UK](4_discussion) |
+| 12:15 - 12:30   | 5. Wrap up                                   |
 
 
 
