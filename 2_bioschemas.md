@@ -39,6 +39,9 @@ Before attending the Bioschemas section of the tutorial, learners should already
 The presentation slides:
 - [Introduction to Bioschemas](https://docs.google.com/presentation/d/1sQ0kPmSYxm63YGAR6VCfey_lk14CXcUYVjc7JM9auK0/edit?usp=sharing)
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpWQVRtLlMYfvtAg64z_wfJz0BKdytNnBY0T5GUwgULp-c78NpZ9cBTU7EGcmEaWzNAGKiZvKU4o09/pubembed?start=false&loop=false&delayms=0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 ## Tutorial
 The tutorial workbook: 
 - [**Tutorial**](https://github.com/zbmed-semtec/bioschemas-ghpages-markup-tutorial) and **[corresponding GitHub pages](https://zbmed-semtec.github.io/bioschemas-ghpages-markup-tutorial/)**  

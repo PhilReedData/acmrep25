@@ -14,14 +14,17 @@ See the [about page](about) for abstract, learning objectives, intended audience
 
 ## Tutorial delivery
 
-| Times | Topic                                        |
-|:------|:---------------------------------------------|
-|0h00 - 0h15 | [1. Introduction](1_introduction)            |
-|0h15 - 0h45 | [2. Bioschemas](2_bioschemas)                |
-|0h45 - 2h15 | [3. RO-Crate](3_ro-crate)                    |
-|(1h00 - 1h15)| (Coffee break)                               |
-|2h15 - 2h45 | [4. Group discussions, HDR UK](4_discussion) |
-|2h45 - 3h00 | 5. Wrap up                                   |
+**Date**: Tuesday, July 29th 2025, 9am to 12 noon Pacific Time [(convert to your time zone)](https://www.timeanddate.com/worldclock/converter.html?iso=20250729T160000&p1=256)
+
+**Location**: Allard 121
+
+| Times (PDT)                    | Topic                                                      |
+|:-------------------------------|:-----------------------------------------------------------|
+| 9am - 9.15                     | [1. Introduction](1_introduction)                          |
+| 9.15 - 9.45                    | [2. Bioschemas](2_bioschemas)                              |
+| 9.45 - 11.15<br>(10am - 10.15) | [3. RO-Crate](3_ro-crate)<br>(Coffee break)               |
+| 11.15 - 11.45                  | [4. Group discussions, HDR UK](4_discussion)               |
+| 11.45 - 12 noon                | 5. Wrap up                                                 |
 
 
 
@@ -33,3 +36,9 @@ Participants are encouraged to bring their own data to apply the concepts to, wh
 There is a coffee break in the middle of the tutorial.    
 
 All materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by their respective authors.
+
+![HDR UK logo](images/hdr-uk-logo.svg)
+Special thanks to [Heath Data Research UK](https://www.hdruk.ac.uk/) (HDR UK) for supporting this tutorial.
+HDR UK's mission is to unite the United Kingdom's health data to enable discoveries that improve people's lives. 
+They are leading work to improve access to data by researchers to improve prevension, care and treatments, helping people lead longer, healthier lives. 
+We will look at the how RO-Crates and FAIR data principles are supporting HDR UK's mission.
