@@ -7,7 +7,7 @@ title: "1. Introduction"
 
 ## Welcome
 
-Following a Bring Your Own Resource hands-on style, in this tutorial we will showcase how to use RO-Crates and Bioschemas to improve FAIRability and will accompany attendees to apply the technologies to their own resources. By "FAIRability", we mean the your ability to make your research data objects more closely follow the [FAIR principles](https://www.go-fair.org/fair-principles/): Findable, Accessible, Interoperable, and Reusable.
+Following a Bring Your Own Resource hands-on style, in this tutorial we will showcase how to use RO-Crates and Bioschemas to improve FAIRability and will accompany attendees to apply the technologies to their own resources. By "FAIRability", we mean the your ability to make your research data outcomes more closely follow the [FAIR principles](https://www.go-fair.org/fair-principles/): Findable, Accessible, Interoperable, and Reusable.
 
 We will start with a few warm-up questions using Mentimeter. Please go to [menti.com](https://menti.com) and enter the codes below to participate in the questions.
 

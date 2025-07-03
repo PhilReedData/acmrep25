@@ -14,7 +14,7 @@ See the [about page](about) for abstract, learning objectives, intended audience
 
 ## Tutorial delivery
 
-**Date**: Tuesday, July 29th 2025, 9am to 12 noon Pacific Time [(convert to your time zone)](https://www.timeanddate.com/worldclock/converter.html?iso=20250729T160000&p1=256)
+**Date**: Tuesday, July 29th 2025, 9am to 12 noon Pacific Time (UTC -7) [(convert to your time zone)](https://www.timeanddate.com/worldclock/converter.html?iso=20250729T160000&p1=256)
 
 **Location**: Allard 121
 
@@ -38,6 +38,7 @@ There is a coffee break in the middle of the tutorial.
 All materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by-sa/4.0/) by their respective authors.
 
 ![HDR UK logo](images/hdr-uk-logo.svg)
+
 Special thanks to [Heath Data Research UK](https://www.hdruk.ac.uk/) (HDR UK) for supporting this tutorial.
 HDR UK's mission is to unite the United Kingdom's health data to enable discoveries that improve people's lives. 
 They are leading work to improve access to data by researchers to improve prevension, care and treatments, helping people lead longer, healthier lives. 
