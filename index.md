@@ -14,7 +14,7 @@ See the [about page](about) for abstract, learning objectives, intended audience
 
 ## Tutorial delivery
 
-**Date**: Tuesday, July 29th 2025, 9am to 12 noon Pacific Time (UTC -7) [(convert to your time zone)](https://www.timeanddate.com/worldclock/converter.html?iso=20250729T160000&p1=256)
+**Date**: Tuesday, July 29th 2025, 9am to 12.30pm Pacific Time (UTC -7) [(convert to your time zone)](https://www.timeanddate.com/worldclock/converter.html?iso=20250729T160000&p1=256)
 
 **Location**: Allard 121, in-person and hybrid
 
@@ -24,7 +24,7 @@ See the [about page](about) for abstract, learning objectives, intended audience
 | 09:15 - 09:45   | [2. Bioschemas](2_bioschemas)                |
 | 09:45 - 10:15   | [3. RO-Crate](3_ro-crate)                    |
 | (10:15 - 10:45) | (Break)                                      |
-| 10:45 - 11.45   | [3. RO-Crate](3_ro-crate) continued          |
+| 10:45 - 11:45   | [3. RO-Crate](3_ro-crate) continued          |
 | 11:45 - 12:15   | [4. Group discussions, HDR UK](4_discussion) |
 | 12:15 - 12:30   | 5. Wrap up                                   |
 
