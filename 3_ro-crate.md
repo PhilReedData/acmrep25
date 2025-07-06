@@ -9,7 +9,7 @@ title: "3. RO-Crate"
 > * Gathering diverse outputs; Aims of FAIR research objects   
 > * Importance of profiles: community-defined content checklists
 > 
-> Coffee break (15 minutes)
+> Coffee break (30 minutes)
 > 
 > **Tutorial: Packaging Data with RO-Crates** (45 minutes)
 > 
