@@ -49,4 +49,4 @@ The tutorial will follow:
 - [Packaging data with RO-Crates](https://www.researchobject.org/packaging_data_with_ro-crate/)
 
 <hr />
-[< Previous: Bioschemas](2-bioschemas.md) | [Home](/) | [> Next: Discussion](4_discussion.md)
+[⇦ Previous: Bioschemas](2-bioschemas.md) • [⇧ Home](/) • [⇨ Next: Discussion](4_discussion.md)
