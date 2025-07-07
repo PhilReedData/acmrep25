@@ -34,4 +34,4 @@ You will need to use a text editor such as Notepad (Windows) or TextEdit (macOS)
 
 
 <hr />
-[⇧ Home](/) • [⇨ Next: Bioschemas](2_bioschemas.md)
+[⇧ Home](.) • [⇨ Next: Bioschemas](2_bioschemas.md)

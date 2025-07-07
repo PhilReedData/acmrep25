@@ -31,4 +31,4 @@ Use the left and right arrows above to move between slides.  For reference, the 
 - What questions do you have?
 
 <hr />
-[⇦ Previous: RO-Crate](3_ro-crate.md) • [⇧ Home](/)
+[⇦ Previous: RO-Crate](3_ro-crate.md) • [⇧ Home](.)

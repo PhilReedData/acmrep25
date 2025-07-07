@@ -48,4 +48,4 @@ The tutorial workbook:
 - Archived at [DOI:/10.5281/zenodo.10629452](https://zenodo.org/doi/10.5281/zenodo.10629452)
 
 <hr />
-[⇦ Previous: Introduction](1_introduction.md) • [⇧ Home](/) • [⇨ Next: RO-Crate](3_ro-crate.md)
+[⇦ Previous: Introduction](1_introduction.md) • [⇧ Home](.) • [⇨ Next: RO-Crate](3_ro-crate.md)
