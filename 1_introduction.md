@@ -17,6 +17,8 @@ Use the left and right arrows above to move between slides. For reference, the q
 
 - Where in the world is your institution?
 - What domains (subjects) do you work in?
+- What best describes your role?
+  - Data Analyst, Data Steward, Researcher, Software Developer, Manager, Other
 - How confident are you using these tools? 
   - Bioschemas, schema.org, JSON-LD, RO-Crate, GitHub
   - Where 1 is 'Never heard of it', 5 is 'Very confident'
