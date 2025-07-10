@@ -6,8 +6,10 @@ title: "3. RO-Crate"
 
 > ## Overview
 > **Presentation: Introduction to RO-Crate and JSON** (15 minutes)
-> * Gathering diverse outputs; Aims of FAIR research objects   
+> * Gathering diverse outputs; RO-Crate as a packaging format to support FAIR data
+> * The contents and structure of an RO-Crate
 > * Importance of profiles: community-defined content checklists
+> * Examples of RO-Crate in practice
 > 
 > Coffee break (30 minutes)
 > 
@@ -40,8 +42,7 @@ This part of the tutorial is meant to be read along with the [RO-Crate specifica
 
 Presentations will be adapted from:
 
-- [Introduction to RO-Crate](https://docs.google.com/presentation/d/1KHKpi0XyAf3WYgtJes3js9d2rJyYx_hh/edit#slide=id.p1)
-- [A Very Brief Introduction to JSON-LD](https://docs.google.com/presentation/d/1aJhCsi0zPfBuI59EwCIHclbrrry03R_i/edit#slide=id.p1)
+- [Introduction to RO-Crate](https://docs.google.com/presentation/d/1d-3PnEytZhhjSCKwit1wdcdS6cV7ALWG/edit?slide=id.p1)
 
 ## Tutorial
 
