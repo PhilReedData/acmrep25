@@ -3,7 +3,9 @@ title: "1. Introduction"
 ---
 
 > ## Overview
-> Welcome, establish the context, set up IDE, set up GitHub logins
+> Welcome, establish the context, set up IDE, set up GitHub logins.
+> 
+> **Presentation**: A very brief introduction to JSON-LD (7 minutes)
 
 ## Welcome
 
@@ -45,7 +47,7 @@ You will need to use a text editor such as Notepad (Windows) or TextEdit (macOS)
 ## A very brief introduction to JSON-LD
 
 The presentation slides:
-- [A Very Brief Introduction to JSON-LD](https://docs.google.com/presentation/d/1aJhCsi0zPfBuI59EwCIHclbrrry03R_i/edit#slide=id.p1)
+- [A very brief introduction to making metadata with JSON-LD](https://docs.google.com/presentation/d/1aJhCsi0zPfBuI59EwCIHclbrrry03R_i/edit#slide=id.p1)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5RZLCOZ2jXxNba-ZlTnZYJDKG2oJ6EJUc_RJlP2od7A3iDHURWk0wWjyDIbybAw/pubembed?start=false&loop=false&delayms=0" frameborder="0" width="960" height="584" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
