@@ -22,8 +22,8 @@ Use the left and right arrows above to move between slides. For reference, the q
 - What domains (subjects) do you work in?
 - What best describes your role?
   - Data Analyst, Data Steward, Researcher, Software Developer, Manager, Other
-- Do you manage any of the following?
-  - Code repository, Workflow service, Pipeline service, Physical lab, None of these
+- Do you manage any of the following for your institution/group/project?
+  - Computational facilities/services, Data repositories/archives, Software repositories/archives, Physical labs & instruments, Analytical data processing applications/pipelines, Coud services, None of these
 - How confident are you using these tools? 
   - Bioschemas, schema.org, JSON-LD, RO-Crate, GitHub
   - Where 1 is 'Never heard of it', 5 is 'Very confident'
