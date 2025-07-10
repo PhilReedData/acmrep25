@@ -47,7 +47,7 @@ You will need to use a text editor such as Notepad (Windows) or TextEdit (macOS)
 The presentation slides:
 - [A Very Brief Introduction to JSON-LD](https://docs.google.com/presentation/d/1aJhCsi0zPfBuI59EwCIHclbrrry03R_i/edit#slide=id.p1)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5RZLCOZ2jXxNba-ZlTnZYJDKG2oJ6EJUc_RJlP2od7A3iDHURWk0wWjyDIbybAw/pubembed?start=false&loop=false&delayms=0" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5RZLCOZ2jXxNba-ZlTnZYJDKG2oJ6EJUc_RJlP2od7A3iDHURWk0wWjyDIbybAw/pubembed?start=false&loop=false&delayms=0" frameborder="0" width="960" height="584" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <hr />
 [⇧ Home](.) • [⇨ Next: Bioschemas](2_bioschemas.md)
