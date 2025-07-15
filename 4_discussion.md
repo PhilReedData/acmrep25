@@ -15,7 +15,11 @@ The presentation and discussion prompts will be shared below. You are very welco
 
 ## Presentation
 
-* [Applied example of RO-Crate: Health Data Research (HDR) UK](https://docs.google.com/presentation/d/1TSoiSgdJzhxlxcXC-DfkRdEr7Qy_AX1aUrQTF3Q_V4A/edit?usp=sharing) (presentation)
+The presentation slides:
+
+* [Applied example of RO-Crate: Health Data Research (HDR) UK](https://docs.google.com/presentation/d/1TSoiSgdJzhxlxcXC-DfkRdEr7Qy_AX1aUrQTF3Q_V4A/edit?usp=sharing) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSYRprQ7TSSYNilziR0tdlrdXKAegSpfhp22xuZ1B1bO-Zvs6L1AVizxfsGa97gbkS_MkY4hLKivr8W/pubembed?start=false&loop=false&delayms=0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Discussion
 
