@@ -16,7 +16,7 @@ See the [about page](about) for abstract, learning objectives, intended audience
 
 **Date**: Tuesday, July 29th 2025, 9am to 12.30pm Pacific Time (UTC -7) [(convert to your time zone)](https://www.timeanddate.com/worldclock/converter.html?iso=20250729T160000&p1=256)
 
-**Location**: Allard 121, in-person and hybrid
+**Location**: Allard 121, in-person and hybrid (Zoom https://zoom.us/j/97778836861 tbc)
 
 | Times (PDT)     | Topic                                        |
 |:----------------|:---------------------------------------------|
