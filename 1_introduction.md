@@ -49,7 +49,7 @@ You will need to use a text editor such as Notepad (Windows) or TextEdit (macOS)
 The presentation slides:
 - [A very brief introduction to making metadata with JSON-LD](https://docs.google.com/presentation/d/1tw8s0eE1fGk53J-t1bjtYg_Nrd0UhhxO/edit#slide=id.p1)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ5RZLCOZ2jXxNba-ZlTnZYJDKG2oJ6EJUc_RJlP2od7A3iDHURWk0wWjyDIbybAw/pubembed?start=false&loop=false&delayms=0" frameborder="0" width="960" height="584" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRiX5GhMJLVZ7tkvxEBjfuazeMMgla2hOwmBz9ZhWTERJdtW_9zXRLI2Di4UxiK3A/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <hr />
 [⇧ Home](.) • [⇨ Next: Bioschemas](2_bioschemas.md)
