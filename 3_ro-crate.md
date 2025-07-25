@@ -36,7 +36,7 @@ Before attending the RO-Crates section of the tutorial, learners should already 
 * Files and folder organization and using an editor/IDE
 * Familiarity with JSON file format
 
-This part of the tutorial is meant to be read along with the [RO-Crate specification](https://www.researchobject.org/ro-crate/1.1/), which learners are suggested to browse in advance.
+This part of the tutorial is meant to be read along with the [RO-Crate specification](https://www.researchobject.org/ro-crate/specification/1.2/index.html), which learners are suggested to browse in advance.
 
 ## Presentations
 
