@@ -44,8 +44,9 @@ The presentation slides:
 
 ## Tutorial
 The tutorial workbook: 
-- [**Tutorial**](https://github.com/zbmed-semtec/bioschemas-ghpages-markup-tutorial) and **[corresponding GitHub pages](https://zbmed-semtec.github.io/bioschemas-ghpages-markup-tutorial/)**  
-- Archived at [DOI:/10.5281/zenodo.10629452](https://zenodo.org/doi/10.5281/zenodo.10629452)
+- [**Tutorial**](https://github.com/philreeddata/bioschemas-ghpages-markup-tutorial) and **[corresponding GitHub pages](https://philreeddata.github.io/bioschemas-ghpages-markup-tutorial/)**  
+  - Based on [**Original tutorial**](https://github.com/zbmed-semtec/bioschemas-ghpages-markup-tutorial) and **[corresponding GitHub pages](https://zbmed-semtec.github.io/bioschemas-ghpages-markup-tutorial/)**
+  - Archived at [DOI:/10.5281/zenodo.10629452](https://zenodo.org/doi/10.5281/zenodo.10629452)
 
 <hr />
 [⇦ Previous: Introduction](1_introduction.md) • [⇧ Home](.) • [⇨ Next: RO-Crate](3_ro-crate.md)
