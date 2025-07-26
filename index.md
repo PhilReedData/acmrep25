@@ -16,7 +16,12 @@ See the [about page](about) for abstract, learning objectives, intended audience
 
 **Date**: Tuesday, July 29th 2025, 9am to 12.30pm Pacific Time (UTC -7) [(convert to your time zone)](https://www.timeanddate.com/worldclock/converter.html?iso=20250729T160000&p1=256)
 
-**Location**: Allard 121, in-person and hybrid (Zoom https://zoom.us/j/97778836861 tbc)
+**Location**: hybrid
+
+- In-person participants: [**Allard**](https://allard.ubc.ca/about-us/allard-hall) **121** (UBC, Vancouver, Canada)
+  - *We acknowledge that the UBC Point Grey campus is situated on the traditional, ancestral and unceded territory of the xwmə0–kwəy’əm (Musqueam).*
+- Remote participants: use the ACM REP 25 **Main Track Zoom link**, see email sent 2025-07-25.
+  - If that fails, we have a back-up ready: https://zoom.us/j/97778836861 
 
 | Times (PDT)     | Topic                                        |
 |:----------------|:---------------------------------------------|
