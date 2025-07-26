@@ -41,6 +41,10 @@ The presentation slides:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpWQVRtLlMYfvtAg64z_wfJz0BKdytNnBY0T5GUwgULp-c78NpZ9cBTU7EGcmEaWzNAGKiZvKU4o09/pubembed?start=false&loop=false&delayms=0" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+> ### Non-bio? No problem!
+> 
+> Bioschemas was written with a life sciences audience in mind, however, many of the profiles can apply to any research domain. 
+> Our sister site [schemas.science](https://schemas.science/) is dedicated to hosting the eight domain-agnostic types/profiles (including datasets and computational tools, the profiles which feature in this tutorial).
 
 ## Tutorial
 The tutorial workbook: 
