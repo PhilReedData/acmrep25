@@ -14,6 +14,8 @@ By "FAIRability", we mean the your ability to make your research data outcomes m
 Many of the concepts covered today are implemented as part of larger systems, you would not normally take such a low-level, "manual" approach to marking up data. 
 However, it helps to understand these concepts by first applying them directly, at a small scale.
 
+- [Sign the register](https://bit.ly/acmrep1)
+
 We will start with a few warm-up questions using Mentimeter. Please go to [menti.com](https://menti.com) and enter the codes below to participate in the questions ([direct link](https://www.menti.com/alxd32bzopmh)).
 
 <div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alwsrhbfa1opyjm75jijkhh21qg57ky4/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
