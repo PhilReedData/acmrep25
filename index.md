@@ -28,9 +28,9 @@ See the [about page](about) for abstract, learning objectives, intended audience
 | 09:00 - 09:35   | [1. Introduction, JSON-LD](1_introduction)   |
 | 09:35 - 10:15   | [2. Bioschemas](2_bioschemas)                |
 | (10:15 - 10:45) | (Break)                                      |
-| 10:45 - 11:45   | [3. RO-Crate](3_ro-crate)                    |
-| 11:45 - 12:15   | [4. Group discussions, HDR UK](4_discussion) |
-| 12:15 - 12:30   | 5. Wrap up                                   |
+| 10:45 - 12:00   | [3. RO-Crate](3_ro-crate)                    |
+| 12:00 - 12:25   | [4. Group discussions, HDR UK](4_discussion) |
+| 12:25 - 12:30   | 5. Wrap up                                   |
 
 
 
