@@ -21,15 +21,14 @@ See the [about page](about) for abstract, learning objectives, intended audience
 - In-person participants: [**Allard 121**](https://allard.ubc.ca/about-us/allard-hall) (UBC, Vancouver, Canada)
   - *We acknowledge that the UBC Point Grey campus is situated on the traditional, ancestral and unceded territory of the xwmə0–kwəy’əm (Musqueam).*
 - Remote participants: use the ACM REP 25 **Main Track Zoom link**, see email sent 2025-07-25.
-  - If that fails, we have a back-up ready: https://zoom.us/j/97778836861 
+  - If that fails, we have a back-up ready 
 
 | Times (PDT)     | Topic                                        |
 |:----------------|:---------------------------------------------|
-| 09:00 - 09:15   | [1. Introduction](1_introduction)            |
-| 09:15 - 09:45   | [2. Bioschemas](2_bioschemas)                |
-| 09:45 - 10:15   | [3. RO-Crate](3_ro-crate) part 1             |
+| 09:00 - 09:35   | [1. Introduction, JSON-LD](1_introduction)   |
+| 09:35 - 10:15   | [2. Bioschemas](2_bioschemas)                |
 | (10:15 - 10:45) | (Break)                                      |
-| 10:45 - 11:45   | [3. RO-Crate](3_ro-crate) part 2             |
+| 10:45 - 11:45   | [3. RO-Crate](3_ro-crate)                    |
 | 11:45 - 12:15   | [4. Group discussions, HDR UK](4_discussion) |
 | 12:15 - 12:30   | 5. Wrap up                                   |
 
